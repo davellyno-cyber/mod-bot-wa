@@ -1,4 +1,4 @@
-# ridhobot
+# mod-bot-wa
 BOT WHATSAPP HP RIDHO SETIAWAN
 
 ### Alat dan Bahan
