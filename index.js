@@ -13,11 +13,10 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 				  
 //
-const BotName = 'davellyno 🤖'; // Nama Bot Whatsapp
+const MYBOT = 'davellyno 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/ridho_setiawan02'; // Nama Instagramlu cok
 const whatsapplu = '088291819839'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/JMWXHNUbHYtHYWBLweyCPD'; // OFFICIAL GRUP LU 1
 //
 const
 {
